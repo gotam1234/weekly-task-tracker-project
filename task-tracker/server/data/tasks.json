@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Ayesha", "task": "Complete onboarding form", "week": 1, "priority": "medium", "status": "done" },
+  { "id": 2, "name": "Ayesha", "task": "Build a sample React component", "week": 1, "priority": "high", "status": "in progress" },
+  { "id": 3, "name": "Bilal", "task": "Read team coding guidelines", "week": 1, "priority": "low", "status": "pending" },
+  { "id": 4, "name": "Bilal", "task": "Set up dev environment", "week": 1, "priority": "high", "status": "done" }
+]
